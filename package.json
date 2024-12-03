@@ -1,0 +1,10 @@
+{
+  "name": "adventofcode2024",
+  "packageManager": "yarn@4.3.1",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "prettier": "^3.4.1"
+  }
+}
