@@ -2,7 +2,8 @@
   "name": "adventofcode2024",
   "packageManager": "yarn@4.3.1",
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "do": "node ./src/run.js"
   },
   "dependencies": {
     "prettier": "^3.4.1"
